@@ -60,6 +60,5 @@ Start at homepage -> Click "Signup or Login" -> Enter basic info -> browse throu
 - JSON
 
 # Personal Note
-
-For this Capstone, I challenged myself while also making it an enjoyable experience by making e-commerce website
+As part of my last courses, the capstone project course for Software Engineer has provided me hands-on-experience in all aspects of a real business project. Alongside with team and mentors. We specified the problem, proposed a solution, and ultimately solved the problem using basic fundamentals. Therefore, this was a great opportunity to further develop my soft and technical skills. As expected though, there were difficult challenges I faced and was forced to overcome to better enhance my skills and accomplish my end goal. At first, I felt intimated but I learn to seek help from my mentors and outside resources to help learn the fundamentals. I learned valuable lessons that I will carry with me as I transition in a professional career. 
   
